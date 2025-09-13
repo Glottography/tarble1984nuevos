@@ -1,0 +1,15 @@
+ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Feature_IDs,Glottolog_Languoid_Level,Family,Speaker_Area
+enap1235,Panare,,6.95035,-65.8483,enap1235,,8,language,Cariban,languages
+gali1262,Galibi Carib,,5.83772,-56.8323,gali1262,,3,language,Cariban,languages
+guam1236,Guamo,,8.2351027,-67.4018753,guam1236,,5,language,,languages
+mapo1246,Mapoyo,,5.96952,-67.2581,mapo1246,,13,language,Cariban,languages
+otom1301,Otomaco,,7.6197859,-66.4990389,otom1301,,6,language,Otomaco-Taparita,languages
+puin1248,Puinave,,3.92974,-67.6886,puin1248,,9,language,,languages
+pume1238,Pumé,,7.10677,-67.5996,pume1238,,15,language,,languages
+sali1298,Sáliba,,5.30115,-69.3843,sali1298,,11,language,Saliban,languages
+tama1338,Tamanaku,,2.765,-65.883,tama1338,,12,language,Cariban,languages
+yaba1248,Yabarana,,5.32692,-66.276,yaba1248,,14,language,Cariban,languages
+cari1283,Cariban,,,,cari1283,,2 3 4 8 12 13 14,family,,families
+nyul1248,Nyulnyulan,,,,nyul1248,,16,family,,families
+otom1276,Otomaco-Taparita,,,,otom1276,,6,family,,families
+sali1297,Saliban,,,,sali1297,,1 11,family,,families

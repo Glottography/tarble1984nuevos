@@ -1,0 +1,23 @@
+{
+    "creators": [
+        {
+            "name": "The Glottography Consortium"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "glottography"
+        }
+    ],
+    "title": "Glottography dataset derived from Tarble de Scaramelli and Zucchi 1984 \"Nuevos Datos sobre la Arqueolog\u00eda Tardia del Orinoco: La Serie Valloide\"",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Generic",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Scaramelli, Kay Tarble de &amp; A. Zucchi. 1984. Nuevos Datos sobre la Arqueolog\u00eda Tardia del Orinoco: La Serie Valloide. Acta Cient\u00edfica Venezolana 35. 434-445.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
