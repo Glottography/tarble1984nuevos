@@ -1,17 +1,19 @@
-ID,Name,Description,Contributor,Citation,Glottocode,Year,Source,Media_ID,Map_Name
-1,Atures,,,,maco1238,1500,tarble1984nuevos,features,Figura 6
-2,Caribe del Sur de la Guayana,,,,cari1283,1500,tarble1984nuevos,features,Figura 7
-3,Galibi (Caribe),,,,gali1262,1500,tarble1984nuevos,features,Figura 7
-4,Guaiqueri,,,,vene1261,1500,tarble1984nuevos,features,Figura 6
-5,"Guama, Guamontey",,,,guam1236,1500,tarble1984nuevos,features,Figura 7
-6,Otomaco,,,,otom1301,1500,tarble1984nuevos,features,Figura 7
-7,Pareca,,,,,1500,tarble1984nuevos,features,Figura 6
-8,Payaro,,,,enap1235,1500,tarble1984nuevos,features,Figura 6
-9,Puinave,,,,puin1248,1500,tarble1984nuevos,features,Figura 7
-10,Quaqua,,,,,1500,tarble1984nuevos,features,Figura 6
-11,Saliva,,,,sali1298,1500,tarble1984nuevos,features,Figura 7
-12,Tamanaco,,,,tama1338,1500,tarble1984nuevos,features,Figura 6
-13,Wanai (Mapoyo),,,,mapo1246,1500,tarble1984nuevos,features,Figura 6
-14,Yabarana,,,,yaba1248,1500,tarble1984nuevos,features,Figura 6
-15,Yaruro,,,,pume1238,1500,tarble1984nuevos,features,Figura 6
-16,Yaruro,,,,yawu1243,1500,tarble1984nuevos,features,Figura 7
+ID,Name,Description,Contributor,Citation,Glottocode,Year,Source,Media_IDs,Type,Map_IDs
+fig6,Figura 6,Mapa de distribución de las lenguas indígenas en el Orinoco Medio para el momento del contacto,,,,,tarble1984nuevos,,map,
+fig7,Figura 7,Mapa de distribución de las lenguas indígenas en el Sureste de Suramérica para el momento del contacto. [Según Loukotka (1968)] con modificationes en base al trabajo de M. Durbin (1977).,,,,,tarble1984nuevos,,map,
+1,Atures,,,,maco1238,1500,tarble1984nuevos,features,feature,fig6
+2,Caribe del Sur de la Guayana,,,,cari1283,1500,tarble1984nuevos,features,feature,fig7
+3,Galibi (Caribe),,,,gali1262,1500,tarble1984nuevos,features,feature,fig7
+4,Guaiqueri,,,,vene1261,1500,tarble1984nuevos,features,feature,fig6
+5,"Guama, Guamontey",,,,guam1236,1500,tarble1984nuevos,features,feature,fig7
+6,Otomaco,,,,otom1301,1500,tarble1984nuevos,features,feature,fig7
+7,Pareca,,,,,1500,tarble1984nuevos,features,feature,fig6
+8,Payaro,,,,enap1235,1500,tarble1984nuevos,features,feature,fig6
+9,Puinave,,,,puin1248,1500,tarble1984nuevos,features,feature,fig7
+10,Quaqua,,,,,1500,tarble1984nuevos,features,feature,fig6
+11,Saliva,,,,sali1298,1500,tarble1984nuevos,features,feature,fig7
+12,Tamanaco,,,,tama1338,1500,tarble1984nuevos,features,feature,fig6
+13,Wanai (Mapoyo),,,,mapo1246,1500,tarble1984nuevos,features,feature,fig6
+14,Yabarana,,,,yaba1248,1500,tarble1984nuevos,features,feature,fig6
+15,Yaruro,,,,pume1238,1500,tarble1984nuevos,features,feature,fig6
+16,Yaruro,,,,yawu1243,1500,tarble1984nuevos,features,feature,fig7
