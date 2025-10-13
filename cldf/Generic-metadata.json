@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/Glottography/tarble1984nuevos",
             "rdf:type": "prov:Entity",
-            "dc:created": "c26244c",
+            "dc:created": "9681dd5",
             "dc:title": "Repository"
         },
         {
@@ -42,7 +42,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
-            "dc:extent": 3,
+            "dc:extent": 4,
             "tableSchema": {
                 "columns": [
                     {
