@@ -11,7 +11,7 @@ cldfbench==1.14.1
 cldfcatalog==1.5.1
 cldfgeojson==2.0.0
 cldfzenodo==2.1.2
-click==8.1.7
+click==8.3.1
 clldutils==3.24.1
 colorama==0.4.6
 colorlog==6.9.0
@@ -36,7 +36,7 @@ pluggy==1.5.0
 pybtex==0.24.0
 pycldf==1.39.0
 pycountry==24.6.1
--e git+https://github.com/glottography/pyglottography@29f53b2969c3398cf8d128887447a0b1297e5819#egg=pyglottography
+pyglottography==2.0.3
 pyglottolog==3.14.0
 Pygments==2.18.0
 pylatexenc==2.10

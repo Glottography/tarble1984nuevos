@@ -44,3 +44,14 @@ cldfbench geojson.glottolog_distance cldf --format pipe
 | sali1298 | 0.82 | False | 2 |
 | tama1338 | 4.17 | False | 1 |
 | yaba1248 | 0.12 | False | 1 |
+
+
+## Release
+
+Commit and push all changes.
+
+Run
+```
+cldfbench glottography.release cldfbench_tarble1984nuevos.py vX.Y
+```
+and follow the instructions given in the output of the command.
