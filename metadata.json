@@ -4,5 +4,6 @@
     "description": "This dataset provides non-overlapping, traditional language ranges in Amazonia based on maps 6 and 7 in Scaramelli and Zucchi 1984.",
     "license": "CC-BY-4.0",
     "url": null,
+    "zenodo_concept_doi": "10.5281/zenodo.17341985",
     "citation": "Scaramelli, Kay Tarble de & A. Zucchi. 1984. Nuevos Datos sobre la Arqueolog\u00eda Tardia del Orinoco: La Serie Valloide. Acta Cient\u00edfica Venezolana 35. 434-445."
 }
